@@ -1,8 +1,10 @@
 inherit kde4
 
 NAME="kde-l10n-ru"
-VERSION=4.10.5
+VERSION=4.11.5
 RELEASE=1
 CATEGORY="KDE"
 SUMMARY="KDE Russian translation files"
 DESCRIPTION="KDE Russian translation files"
+
+ARCH=noarch
